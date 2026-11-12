@@ -1,0 +1,10 @@
+.toolbar__list {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.active {
+  background-color: gray;
+  color: whitesmoke;
+}

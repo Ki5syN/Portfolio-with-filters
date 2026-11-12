@@ -1,0 +1,13 @@
+.projectList {
+  columns: 250px;
+  column-gap: 20px;
+}
+
+.projectList__item {
+  margin-bottom: 20px;
+}
+
+.projectList__img {
+  width: 100%;
+  height: auto;
+}
